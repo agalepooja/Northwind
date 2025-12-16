@@ -1,10 +1,10 @@
 
 
- Northwind SQL Practice ProjecT
+ **Northwind SQL Practice Project**
 
 This project contains a collection of SQL queries written on the Northwind sample database to solve real-world business questions. The queries range from basic data retrieval to advanced analytical queries using joins, aggregations, grouping, and filtering techniques. The goal of this project is to strengthen SQL skills and demonstrate the ability to analyze business data using structured queries.
 
-Skills & Concepts Used
+**Skills & Concepts Used**
 
 1.SQL (MySQL / SQL Server compatible syntax)
 
@@ -27,7 +27,7 @@ Skills & Concepts Used
 10.Database Used
 
 
-Tables used:
+**Tables used:**
 
 1.Customers
 
@@ -45,7 +45,7 @@ Tables used:
 
 8.Shippers
 
-🔍 Business Questions Covered Retrieve supplier and customer information
+** Business Questions Covered Retrieve supplier and customer information**
 
 1.Find customers based on location
 
@@ -61,7 +61,7 @@ Tables used:
 
 7.Perform product, category, and supplier analysis
 
-📈 Example Insights Generated
+** Example Insights Generated**
 
 1.Top 5 most expensive and most sold products
 
