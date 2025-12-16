@@ -46,7 +46,7 @@ This project contains a collection of SQL queries written on the Northwind sampl
 8.Shippers
 
 
-** Business Questions Covered Retrieve supplier and customer information**
+**Business Questions Covered Retrieve supplier and customer information**
 
 1.Find customers based on location
 
@@ -63,7 +63,7 @@ This project contains a collection of SQL queries written on the Northwind sampl
 7.Perform product, category, and supplier analysis
 
 
-** Example Insights Generated**
+**Example Insights Generated**
 
 1.Top 5 most expensive and most sold products
 
