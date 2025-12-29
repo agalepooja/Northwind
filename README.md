@@ -65,4 +65,3 @@ The main goal of this project is to **strengthen SQL skills** and demonstrate th
 
 
 
-## 📁 Project Structure
