@@ -29,9 +29,6 @@ The main goal of this project is to **strengthen SQL skills** and demonstrate th
 
 ---
 
-##  Database Used
-**Northwind Sample Database**
-
 ### Tables Used
 ● Customers  
 ● Orders  
